@@ -1,0 +1,15 @@
+D:\patica\pratikler\donguler_while_foreach\bin\Debug\net6.0\donguler_while_foreach.exe
+D:\patica\pratikler\donguler_while_foreach\bin\Debug\net6.0\donguler_while_foreach.deps.json
+D:\patica\pratikler\donguler_while_foreach\bin\Debug\net6.0\donguler_while_foreach.runtimeconfig.json
+D:\patica\pratikler\donguler_while_foreach\bin\Debug\net6.0\donguler_while_foreach.dll
+D:\patica\pratikler\donguler_while_foreach\bin\Debug\net6.0\donguler_while_foreach.pdb
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.csproj.AssemblyReference.cache
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.AssemblyInfoInputs.cache
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.AssemblyInfo.cs
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.csproj.CoreCompileInputs.cache
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.dll
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\refint\donguler_while_foreach.dll
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.pdb
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\donguler_while_foreach.genruntimeconfig.cache
+D:\patica\pratikler\donguler_while_foreach\obj\Debug\net6.0\ref\donguler_while_foreach.dll
